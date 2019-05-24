@@ -2,7 +2,7 @@
   "name": "ob-kb-funnel",
   "version": "6.0.0",
   "kibana": {
-    "version": "kibana"
+    "version": "6.4.0"
   },
   "devDependencies": {
     "numeral": "1.5.3",
